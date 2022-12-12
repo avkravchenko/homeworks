@@ -1,6 +1,6 @@
-/*Задание 3.
+/* Задание 3.
 
-Дана строка. Необходимо вывести в консоль перевёрнутый вариант. Например, "Hello" -> "olleH".
+Дана строка. Необходимо вывести в консоль перевёрнутый вариант. Например, "Hello" -> "olleH". */
 
 //first option
 
@@ -26,4 +26,4 @@ function reverseStr(ourString) {
     return result;
 }
 
-console.log(reverseStr(ourString));*/
+console.log(reverseStr(ourString));
