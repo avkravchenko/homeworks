@@ -21,4 +21,4 @@ else if (typeof(x) === "boolean") {
     console.log('x is a logic') 
 }
 
-else console.log('x is undefined') 
+else console.log('x is undefined') */

@@ -26,7 +26,4 @@ function reverseStr(ourString) {
     return result;
 }
 
-console.log(reverseStr(ourString));
-
-
-
+console.log(reverseStr(ourString));*/
